@@ -1,4 +1,4 @@
-# Olá, eu sou o Juan Gregorio de Castro 👋
+Juan Gregorio de Castro 
 
 ### Desenvolvedor Full-Stack | Security-Minded (AppSec)
 
